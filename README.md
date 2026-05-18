@@ -1,5 +1,9 @@
 # 🤖 Telegram Bot: telegram-bot_for_gym-nutrition-calories
 
+At the moment, the application is launched from time to time for configuration purposes.
+
+In future updates, it will be available at the following link: https://t.me/GymNutritionCalories_bot
+
 ---
 
 ## 🇷🇺 : Описание на русском языке
