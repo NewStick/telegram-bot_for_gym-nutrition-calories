@@ -28,7 +28,7 @@ async def command_start(user_message : Message):
     pass
 
 @client_dispatcher.message(Command('help'))
-async def command_start(user_message : Message):
+async def command_help(user_message : Message):
     """ Создаём собственный обработчик для команды /help """
     pass
 

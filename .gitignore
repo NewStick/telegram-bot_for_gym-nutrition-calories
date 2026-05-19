@@ -1,4 +1,3 @@
 # Игнорируем папки и файлы с чувствительной информацией
-.venv
 client_telegram_configuration.py
 ./TelegramBot-Databases
