@@ -2,3 +2,10 @@
 .venv
 client_telegram_configuration.py
 ./TelegramBot-Databases
+
+# Игнорируем файлы интерпретатора
+__pycache__
+
+# Игнорируем файлы из папок IDE
+.idea
+.vs
