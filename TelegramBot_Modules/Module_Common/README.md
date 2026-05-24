@@ -6,4 +6,4 @@
 
 В данной директории расположены основные элементы для повседневного взаимодействия с данным приложением _(Telegram ботом)_
 
-![Architecture_Module_FoodSettings.png](../../Assets/Images/Architecture_Module_FoodSettings.png)
+![Architecture_Module_FoodSettings.png](../../Assets/Images/Architecture_Module_Common.png)
